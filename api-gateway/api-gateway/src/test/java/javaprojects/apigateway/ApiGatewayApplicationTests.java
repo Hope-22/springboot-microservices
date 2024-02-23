@@ -1,4 +1,4 @@
-package springbootmicroservices.apigateway;
+package javaprojects.apigateway;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

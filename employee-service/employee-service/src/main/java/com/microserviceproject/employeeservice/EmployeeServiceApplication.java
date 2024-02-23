@@ -9,6 +9,7 @@ import org.springframework.web.client.RestTemplate;
 
 @SpringBootApplication
 @EnableFeignClients
+
 public class EmployeeServiceApplication {
 //	@Bean
 //	public RestTemplate restTemplate() {
